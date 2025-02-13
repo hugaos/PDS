@@ -1,0 +1,36 @@
+Using BasicPrinterAdapter:
+Document printed: "This is a great text..."
+Spooling 3 documents.
+Document printed: "This is a great text..."
+Document printed: "Natural language gen..."
+Document printed: "You which to know ho..."
+Please refill printer.
+* Job0
+* Job1
+* Job2
+* Job3
+* Job4
+* Job5
+* Job6
+Spooling 3 documents.
+Printer refilled.
+Document printed: "Natural language gen..."
+Document printed: "You which to know ho..."
+Job6 cancelled
+* Job0
+* Job1
+* Job2
+* Job3
+* Job4
+* Job5
+* Job7
+* Job8
+* Job9
+* Job10
+* Job11
+Spooling 3 documents.
+Document printed: "This is a great text..."
+Document printed: "Natural language gen..."
+Please refill printer.
+Printer refilled.
+No spooled jobs

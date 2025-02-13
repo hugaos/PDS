@@ -1,0 +1,5 @@
+Depois de lermos duma maneira geral o código fonte da classe java.util.Calendar, podemos confimar a existencia de :
+
+-Padrão de Design Factory,a classe Calendar usa um fabric method estático getInstance() para obter uma instância de Calendar com base na localização e no fuso horário padrão do sistema.
+
+Padrão de Design Builder: A classe Calendar oferece métodos fluentes para configurar campos específicos do calendário, como set(), add(), roll(), etc, além da presença de uma classe Builder.
